@@ -1,0 +1,32 @@
+{
+  "name": "my-blog-backend",
+  "version": "1.0.0",
+  "description": "app to host",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/klejd.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "klejdi grembi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/klejd/issues"
+  },
+  "homepage": "https://github.com/www.github.com/klejd#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
